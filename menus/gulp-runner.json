@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle gulp-runner",
+        "command": "gulp-runner:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "gulp-runner",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "gulp-runner:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
