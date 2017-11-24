@@ -1,7 +1,7 @@
 {
   "name": "gulp-runner",
   "main": "./lib/gulp-runner",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Experimental gulp task runner",
   "keywords": [],
   "activationCommands": {
