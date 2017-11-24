@@ -2,7 +2,7 @@
   "name": "gulp-runner",
   "main": "./lib/gulp-runner",
   "version": "0.2.3",
-  "description": "A short description of your package",
+  "description": "Experimental gulp task runner",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "gulp-runner:toggle"

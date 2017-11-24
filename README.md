@@ -1,5 +1,5 @@
 # gulp-runner package
 
-Experiment of gulp runner.
+Experimental gulp task runner.
 
-![Video about package](http://scrns.s3.amazonaws.com/Snimok_ekrana_2017-07-20_v_20.42.18.png)
+![Package preview](http://scrns.s3.amazonaws.com/Snimok_ekrana_2017-07-20_v_20.42.18.png)
